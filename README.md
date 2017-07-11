@@ -7,3 +7,5 @@
 ---
 
 * java-concurrency-programming JAVA并发编程的学习部分
+
+* java 设计模式(Desgin pattern) 学习
